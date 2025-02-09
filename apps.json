@@ -1,0 +1,40 @@
+{
+    "ads": [
+      {
+        "name": "App 1",
+        "description": "Discover the best productivity app to stay organized.",
+        "icon": "https://example.com/icons/app1.png",
+        "appstore_link": "https://apps.apple.com/app/app1",
+        "googleplay_link": "https://play.google.com/store/apps/details?id=com.example.app1"
+      },
+      {
+        "name": "App 2",
+        "description": "A fast and fun way to track your fitness goals.",
+        "icon": "https://example.com/icons/app2.png",
+        "appstore_link": "https://apps.apple.com/app/app2",
+        "googleplay_link": "https://play.google.com/store/apps/details?id=com.example.app2"
+      },
+      {
+        "name": "App 3",
+        "description": "Your favorite social media app to connect with friends.",
+        "icon": "https://example.com/icons/app3.png",
+        "appstore_link": "https://apps.apple.com/app/app3",
+        "googleplay_link": "https://play.google.com/store/apps/details?id=com.example.app3"
+      },
+      {
+        "name": "App 4",
+        "description": "A simple and effective task manager to boost productivity.",
+        "icon": "https://example.com/icons/app4.png",
+        "appstore_link": "https://apps.apple.com/app/app4",
+        "googleplay_link": "https://play.google.com/store/apps/details?id=com.example.app4"
+      },
+      {
+        "name": "App 5",
+        "description": "An exciting puzzle game with endless levels of fun!",
+        "icon": "https://example.com/icons/app5.png",
+        "appstore_link": "https://apps.apple.com/app/app5",
+        "googleplay_link": "https://play.google.com/store/apps/details?id=com.example.app5"
+      }
+    ]
+  }
+  
