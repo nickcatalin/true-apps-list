@@ -5,35 +5,40 @@
       "description": "Discover the best productivity app to stay organized.",
       "icon": "https://nickcatalin.github.io/true-apps-list/assets/icon.png",
       "appstore_link": "https://apps.apple.com/app/app1",
-      "googleplay_link": "https://play.google.com/store/apps/details?id=com.example.app1"
+      "googleplay_link": "https://play.google.com/store/apps/details?id=com.example.app1",
+      "webapp_link": "https://yourwebapp1.example.com"
     },
     {
       "name": "App 2",
       "description": "A fast and fun way to track your fitness goals.",
       "icon": "https://nickcatalin.github.io/true-apps-list/assets/icon.png",
       "appstore_link": "https://apps.apple.com/app/app2",
-      "googleplay_link": "https://play.google.com/store/apps/details?id=com.example.app2"
+      "googleplay_link": "https://play.google.com/store/apps/details?id=com.example.app2",
+      "webapp_link": "https://yourwebapp2.example.com"
     },
     {
       "name": "App 3",
       "description": "Your favorite social media app to connect with friends.",
       "icon": "https://nickcatalin.github.io/true-apps-list/assets/icon.png",
       "appstore_link": "https://apps.apple.com/app/app3",
-      "googleplay_link": "https://play.google.com/store/apps/details?id=com.example.app3"
+      "googleplay_link": "https://play.google.com/store/apps/details?id=com.example.app3",
+      "webapp_link": "https://yourwebapp3.example.com"
     },
     {
       "name": "App 4",
       "description": "A simple and effective task manager to boost productivity.",
       "icon": "https://nickcatalin.github.io/true-apps-list/assets/icon.png",
       "appstore_link": "https://apps.apple.com/app/app4",
-      "googleplay_link": "https://play.google.com/store/apps/details?id=com.example.app4"
+      "googleplay_link": "https://play.google.com/store/apps/details?id=com.example.app4",
+      "webapp_link": "https://yourwebapp4.example.com"
     },
     {
       "name": "App 5",
       "description": "An exciting puzzle game with endless levels of fun!",
       "icon": "https://nickcatalin.github.io/true-apps-list/assets/icon.png",
       "appstore_link": "https://apps.apple.com/app/app5",
-      "googleplay_link": "https://play.google.com/store/apps/details?id=com.example.app5"
+      "googleplay_link": "https://play.google.com/store/apps/details?id=com.example.app5",
+      "webapp_link": "https://yourwebapp5.example.com"
     }
   ]
 }
